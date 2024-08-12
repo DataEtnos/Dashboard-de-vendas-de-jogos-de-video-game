@@ -15,3 +15,11 @@ Na parte superior do painel, você encontrará o total de vendas de 1980 a 2017,
 
 Espero que vocês gostem do resultado e estou aberto a feedbacks e discussões sobre a análise!
 
+
+
+![Captura de tela 2024-08-12 151407](https://github.com/user-attachments/assets/46c21342-2b66-4dbe-8bd3-c82b56e4ca54)
+![Captura de tela 2024-08-12 151355](https://github.com/user-attachments/assets/2ca1faf1-abb5-44db-80a4-2b99e1661188)
+![Captura de tela 2024-08-12 151338](https://github.com/user-attachments/assets/67f71d4c-d093-495b-a1ea-bafd8014b369)
+![Captura de tela 2024-08-12 151328](https://github.com/user-attachments/assets/5ac2cc95-728f-4fe1-99b4-79b2b1848a36)
+![Captura de tela 2024-08-12 151315](https://github.com/user-attachments/assets/5c205132-9982-4918-9f95-f16fdc482e36)
+![Captura de tela 2024-08-12 151253](https://github.com/user-attachments/assets/b68980ce-2f25-483d-9ea8-123baa4d3757)
